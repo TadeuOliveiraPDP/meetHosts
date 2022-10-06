@@ -1,0 +1,11 @@
+{
+  "name": "meethosts",
+  "version": "1.0.0",
+  "description": "algoritmo de atribuição de hosts na PD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tadeu Oliveira",
+  "license": "MIT"
+}
